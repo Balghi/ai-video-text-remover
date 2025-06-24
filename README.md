@@ -53,7 +53,7 @@ Remove text overlays, logos, watermarks, and emojis from videos using state-of-t
 
 | Original Video | Detected Elements | Processed Result |
 |:--------------:|:-----------------:|:----------------:|
-| ![Original](https://via.placeholder.com/300x200?text=Original+Video) | ![Detection](https://via.placeholder.com/300x200?text=Text+Detection) | ![Result](https://via.placeholder.com/300x200?text=Clean+Video) |
+| ![Original](uploaded.png) | ![Detection](detection.png) | ![Result](result.png) |
 | Video with overlays | AI detects all text elements | Clean video output |
 
 ### Detection Examples
