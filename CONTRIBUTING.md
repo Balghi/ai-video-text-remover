@@ -85,7 +85,7 @@ Enhance the user interface and user experience.
 
 ```bash
 # Fork the repository on GitHub, then clone your fork
-git clone https://github.com/yourusername/ai-video-text-remover.git
+git clone https://github.com/Balghi/ai-video-text-remover.git
 cd ai-video-text-remover
 
 # Add the original repository as upstream
