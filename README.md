@@ -369,7 +369,7 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 ### HuggingFace Spaces
 
 The app is deployed on HuggingFace Spaces with:
-- **Hardware**: Tesla T4 GPU
+- **Hardware**: CPU
 - **Framework**: Gradio
 - **Auto-scaling**: Enabled
 - **Public Access**: Free
