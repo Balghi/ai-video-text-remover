@@ -400,8 +400,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Support
 
 - 🌐 **Live Demo**: [HuggingFace Spaces](https://huggingface.co/spaces/Balghi/ai-video-text-remover)
-- 📧 **Issues**: [GitHub Issues](https://github.com/yourusername/ai-video-text-remover/issues)
-- 💬 **Discussions**: [GitHub Discussions](https://github.com/yourusername/ai-video-text-remover/discussions)
+- 📧 **Issues**: [GitHub Issues](https://github.com/Balghi/ai-video-text-remover/issues)
+- 💬 **Discussions**: [GitHub Discussions](https://github.com/Balghi/ai-video-text-remover/discussions)
 
 ## 📈 Citation
 
@@ -410,9 +410,9 @@ If you use this project in your research, please cite:
 ```bibtex
 @software{ai_video_text_remover,
   title = {AI Video Text Remover: Intelligent Text Overlay Removal from Videos},
-  author = {Your Name},
+  author = {Ulas Balci},
   year = {2024},
-  url = {https://github.com/yourusername/ai-video-text-remover},
+  url = {https://github.com/Balghi/ai-video-text-remover},
   note = {Open-source video text removal using AI inpainting}
 }
 ```
